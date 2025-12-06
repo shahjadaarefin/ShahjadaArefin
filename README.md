@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Web Security Researcher with 4 years of bug bounty experience specializing in OWASP Top 10 vulnerabilities, manual testing, and automation. I am also pursuing CompTIA Security+ SY0-701 to expand enterprise-level security knowledge.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
