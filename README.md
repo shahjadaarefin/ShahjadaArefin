@@ -2,9 +2,9 @@
 
 ![Cybersecurity Banner](https://via.placeholder.com/1200x300?text=Cybersecurity+Portfolio+%7C+Ethical+Hacking+%7C+Security+Analyst)
 
-Hi! I’m **Arefin**, an aspiring **Cybersecurity Analyst** from Bangladesh.  
+Hi! I’m **Md Shahjada Arefin**, an aspiring **Cybersecurity Analyst** from Bangladesh.  
 I have **4 years of bug bounty experience**, completed the **Google Professional Cybersecurity Certificate**, and am preparing for **CompTIA Security+**.  
-I specialize in **ethical hacking, threat analysis, incident response, and security monitoring**.  
+I specialize in **ethical hacking,threat analysis,  incident response, and security monitoring**.  
 
 ---
 
