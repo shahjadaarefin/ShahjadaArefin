@@ -4,7 +4,7 @@
 - Issued by: Google
 - Platform: Coursera
 - Year: 2024
-- Credential: [View Certificate](google-cybersecurity-certificate.pdf)
+- Credential: [View Certificate](Google_cybersecurity_cert.pdf)
 
 ## CompTIA Security+ (In Progress)
 - Status: Preparing
