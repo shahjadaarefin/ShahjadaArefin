@@ -13,5 +13,5 @@
 ## Bug Bounty Experience Certificate / Proof
 - Platform: HackerOne / Bugcrowd
 - Experience: 4+ years
-- Evidence: [View Proof](bug-bounty-achievement.png)
+- Evidence: [View Proof](bug_bounty-profile.png)
 
