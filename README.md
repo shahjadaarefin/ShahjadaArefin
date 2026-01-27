@@ -86,15 +86,10 @@ Aspiring **Cybersecurity Analyst** seeking entry-level roles in **threat detecti
 
 ---
 
-## 🎯 Career Objective
-Aspiring **Cybersecurity Analyst** seeking entry-level roles in **threat detection, security monitoring, and incident response**, while continuously expanding skills through hands-on projects and certifications like **CompTIA Security+**.  
-
----
-
 ## 📫 Contact Me
 - **Email:** shahjadaarefin@gmail.com
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-shahjada-arefin)  
-- **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)  
+- **GitHub:** [github.com/yourprofile]((https://github.com/shahjadaarefin)  
 
 ---
 
